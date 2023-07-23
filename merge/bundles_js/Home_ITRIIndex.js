@@ -67,7 +67,8 @@ var Home_Default = {
 
         $.ajax({
             type: "GET",
-            url:webURL + "/api/COL01_Default?" + $.param(p),
+            // url:webURL + "/api/COL01_Default?" + $.param(p),// TODO:開發註解
+            url:webURL2 + "/fakeData/COL01_Default.json",       
             //url: webURL + "/JsPage/H002/Home/default.json",
             contentType: "application/json",
             dataType: "json",
@@ -508,8 +509,10 @@ var Home_Default = {
             ]
         };
         $.ajax({
-            type: "POST",
-            url: webURL + "/api/LSM01_ByGet",
+            // type: "POST", // TODO:開發註解
+            // url: webURL + "/api/LSM01_ByGet", // TODO:開發註解
+            type: "GET",
+            url: webURL2 + "fakeData/comparisonList.json",
             contentType: "application/json",
             dataType: "json",
             data: JSON.stringify(inParam),
@@ -541,7 +544,8 @@ var Home_Default = {
                             }
                             $.ajax({
                                 type: "GET",
-                                url: webURL + "/api/COL66_GetSelfLearnList?" + $.param(p),
+                                // url: webURL + "/api/COL66_GetSelfLearnList?" + $.param(p),// TODO:開發註解
+                                url:webURL2 + "/fakeData/COL66_GetSelfLearnList.json", 
                                 //url: webURL + "/SelfLearnList.json",//帶假資料
                                 contentType: "application/json",
                                 dataType: "json",

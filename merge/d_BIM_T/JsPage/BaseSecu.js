@@ -37,7 +37,8 @@ var BaseSecu = {
         };
         $.ajax({
             type: "GET",
-            url: webURL + "/api/TM_ApiMgr_App_CheckSsword?" + $.param(p),
+            // url: webURL + "/api/TM_ApiMgr_App_CheckSsword?" + $.param(p), // TODO:開發註解
+            url: webURL2 + "fakeData/TM_ApiMgr_App_CheckSsword.json",
             contentType: "application/json",
             dataType: "json",
             async: false,

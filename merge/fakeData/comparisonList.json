@@ -1,0 +1,40 @@
+{
+  "ItemList": [
+      {
+          "CompareName": "智慧資通訊",
+          "PSId": "EFAA5C9C-1925-4F9D-AF7E-B7CDC5E9831B",
+          "ErrorMessage": ""
+      },
+      {
+          "CompareName": "智慧機械",
+          "PSId": "C3AB64FD-3340-4741-8BAA-73D7A98DF205",
+          "ErrorMessage": ""
+      },
+      {
+          "CompareName": "生技醫藥",
+          "PSId": "89E8416D-B920-4D2C-A7D9-493C1042FADD",
+          "ErrorMessage": ""
+      },
+      {
+          "CompareName": "智慧電網與綠能",
+          "PSId": "86167EA6-7168-4B22-A9AC-9A33E4406563",
+          "ErrorMessage": ""
+      },
+      {
+          "CompareName": "淨零永續",
+          "PSId": "9DE28893-E25F-43B6-8C16-F50613DD592D",
+          "ErrorMessage": ""
+      },
+      {
+          "CompareName": "科技管理",
+          "PSId": "40C7B6BD-5268-4AAD-BDE4-C3DD9A0FA5AF",
+          "ErrorMessage": ""
+      },
+      {
+          "CompareName": "其他",
+          "PSId": "8E3775B6-DF44-4D05-A641-672BC37768BB",
+          "ErrorMessage": ""
+      }
+  ],
+  "ErrorMessage": ""
+}

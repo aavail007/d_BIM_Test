@@ -1,0 +1,940 @@
+{
+  "CarouselList": [
+      {
+          "InfNo": "26849a82-762a-4f8e-a21b-ae56a387fd40",
+          "Title": "產業新尖兵計畫GO！",
+          "SubTitle": "建立專長與職能？新尖兵一把罩！最高補助 10 萬元！",
+          "DateNPlace": "",
+          "LinkURL": "https://college.itri.org.tw/Home/ProgramList?grfNo=c129ef5c-1df9-4042-bc6a-5a4fef7cc91a&typeMgdNo=aef42517-0e54-414c-8b52-37dc6fd5fff5&TypeCode=6",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=165394cd-f6af-4217-b26e-0509cf3ab711",
+          "VideoURL": "",
+          "UrlTitle": "",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "7738139b-e579-4247-ba94-7d6c19843c81",
+          "Title": "人工智慧新樂章 ",
+          "SubTitle": "智慧醫療與生成式AI的雙重奏",
+          "DateNPlace": "",
+          "LinkURL": "https://college.itri.org.tw/edm/B000/2023/02/02.html",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=149efee6-645b-401c-b969-68f594224688",
+          "VideoURL": "",
+          "UrlTitle": "",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "3a5abdd2-9af1-4929-88ec-9f16ef92f018",
+          "Title": "雙軸科技100+",
+          "SubTitle": "在綠色、數位雙軸轉型浪潮中為企業領航",
+          "DateNPlace": "",
+          "LinkURL": "https://college.itri.org.tw/edm/B000/2023/01/01.html",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=468f6af8-3289-4b12-957c-001aca7d49a6",
+          "VideoURL": "",
+          "UrlTitle": "",
+          "ErrorMessage": ""
+      }
+  ],
+  "HotLessonList": [
+      {
+          "InfNo": "5790abb7-0d34-4502-962e-6e84cee6a553",
+          "Title": "醫療器材商品化實務訓練系列課程",
+          "SubTitle": "課程內容由案例出發循序漸進解析管理精要，期能協助醫療器材研發團隊、製造商、創新研發公司在醫療器材產品開發預做規劃及如何營運上市。",
+          "DateNPlace": "2023/07~2023/10\n線上直播",
+          "LinkURL": "https://college.itri.org.tw/edm/D1/012/19/edm.html",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=4b2cfbed-bf9f-41de-8852-2b081e69dc90",
+          "VideoURL": "",
+          "UrlTitle": "Y",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "3afc87d7-1893-4334-8874-0f55c9f6f654",
+          "Title": "科技產業經營高階主管研習班",
+          "SubTitle": "在變動環境與挑戰下「韌性」成為企業領導人營運與決策的必備思維",
+          "DateNPlace": "2023-08-11~2023-09-21\n新竹(實體/數位)",
+          "LinkURL": "https://college.itri.org.tw/Home/LessonData/38510B3D-8B10-44E7-8AF4-50D83293773B",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=99c22dba-0f8c-44ba-9185-c0e0734c6d1b",
+          "VideoURL": "",
+          "UrlTitle": "Y",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "47eca051-017f-4694-aa08-8e2310ca5434",
+          "Title": "塑膠射出模具工作坊-成型技術x模具成本估價x不良之關聯性x模具發包驗收",
+          "SubTitle": "本課程邀請擁有業界 30 年豐富經驗的劉講師，完整介紹塑膠射出成型技術、模具設計及成本估價、射出不良關聯性以及模具發包準則與十大驗收要項，讓學員能更清晰理解整體塑膠模具射出架構與執行。",
+          "DateNPlace": "2023/08/02~2023/08/23\n台北(實體/數位)",
+          "LinkURL": "https://college.itri.org.tw/edm/D1/012/05/edm.html",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=85872c85-f6f7-43ed-a97c-da47642e23a8",
+          "VideoURL": "",
+          "UrlTitle": "Y",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "a3c61d2a-b128-4c56-8655-64d0815ba232",
+          "Title": "藥品及醫療器材開發系列課程",
+          "SubTitle": "本系列課程邀請經驗豐富之產學研界專家顧問講授，結合理論知識與實務案例經驗，幫助學員建立基本觀念及增強專業能力，開啟藥品及醫療器材產品開發之成功之路。",
+          "DateNPlace": "2023/07~2023/11\n新竹(實體/數位)",
+          "LinkURL": "https://college.itri.org.tw/edm/D1/005/11/edm.html",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=ad7c419c-b0c8-4342-be6a-bb2ba06c9cc6",
+          "VideoURL": "",
+          "UrlTitle": "Y",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "0e857b45-db6a-4e17-a0a9-ef9331f8a2b8",
+          "Title": "永磁無刷馬達之分析、設計與實例模擬 ",
+          "SubTitle": "【政府補助】永磁無刷馬達之分析、設計與實例模擬~『基礎＋實務＋電腦實作 深入講授』累積您的專業能力",
+          "DateNPlace": "2023/08/03~2023/08/04\n台中",
+          "LinkURL": "https://college.itri.org.tw/Home/LessonData/A722927C-B592-4A6B-8758-ABCA40976997",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=d8853fb8-cfba-49f2-bb3d-df705edcccdc",
+          "VideoURL": "",
+          "UrlTitle": "Y",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "67ac0983-b94b-480d-b7c7-4707690e7bc9",
+          "Title": "第二屆數位轉型策略動態分析師",
+          "SubTitle": "36小時課程取得雙證書，結合系統思考管理，運用策略動態模擬分析，於實際策略執行前推演降低重大錯誤風險並拓展創新事業成效！",
+          "DateNPlace": "2023/08/04～2023/09/08\n台北",
+          "LinkURL": "https://college.itri.org.tw/Home/LessonData?PosterGUID=9FC5D3E1-1863-4596-8B68-1FB05631EA0E",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=0ad60552-fd31-424d-bcfb-e2061f20c03a",
+          "VideoURL": "",
+          "UrlTitle": "Y",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "0083cd12-d6b9-4811-ae9d-8047a01c1d0f",
+          "Title": "iPAS X 人培再充電",
+          "SubTitle": "★ 在職培訓 ★ 免費課程 ★ 協助企業智慧轉型，提升在職員工專業職能！",
+          "DateNPlace": "2023/05/19~2023/08/15\n台北、高雄",
+          "LinkURL": "https://www.ipas.org.tw/PageContent.aspx?pgeno=3e5e3f3b-8f19-444b-9c49-0811eeeb2a6f",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=33e0ab0f-ca53-4333-a3d1-65fdfe394945",
+          "VideoURL": "",
+          "UrlTitle": "Y",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "5e4c6322-5377-4ab8-bf56-18efafddee7a",
+          "Title": "化粧保養品配方設計與實務調製技術應用",
+          "SubTitle": "邀請♥專業化粧品配方師♥從化粧保養品的配方架構、化粧品的設計概念及化粧品的原料組成，做一系列相關的課程內容說明。",
+          "DateNPlace": "2023/08/05~2023/08/13\n台中",
+          "LinkURL": "https://college.itri.org.tw/Home/LessonData/66292F9E-28EC-4406-8F55-FB9B185DB477",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=8c190c17-335a-4048-942d-319a4a49e92f",
+          "VideoURL": "",
+          "UrlTitle": "Y",
+          "ErrorMessage": ""
+      }
+  ],
+  "OpenLessonList": [
+      {
+          "PosterGUID": "4bfe67c6-4f75-4bc8-b5b1-66d79e956df2",
+          "Title": "人機互動設計思考與使用者體驗暨人機系統設計",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "雲端教室",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-07-31T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "2941625d-6d81-4688-97f0-d0cf9b5065a3",
+          "Title": "ISO 10993生物相容性法規解析與評估實務",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "新竹",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-08-10T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "7e240c6d-2f09-4ba4-b44e-90e3c8f93b06",
+          "Title": "電子電路介紹與EDA模擬分析驗證實作培訓班",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "台中",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-08-09T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "afdc88a1-8b50-488f-b088-18d77dc7c1fa",
+          "Title": "【產業新尖兵 全額補助】智慧製造-機構設計與結構分析技術師養成班",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "台中",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-07-31T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "1f52b94a-ead2-4925-b42c-43711c57b2fa",
+          "Title": "夾治具設計與應用實務培訓班",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "台中",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-08-15T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "8606c994-1c28-45cb-bcc4-c7c29b9c00ef",
+          "Title": "化粧品專業技術人員8小時回訓課程",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "雲端教室",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-08-11T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "b629c179-981a-4835-98b2-f54a50101416",
+          "Title": "【ISO/IEC 17025：2017系列】A2: 實驗室主管訓練課程",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "台中",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-07-25T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "7a091b92-7639-40f2-b620-f2bfb51e82da",
+          "Title": "公差設計與量測應用工程師 – 系列課程二 公差原則與設計應用實務",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "台中",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-08-12T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "689c6488-54a9-4e2d-af89-dfd1557929ed",
+          "Title": "【ISO/IEC 17025：2017系列】A3: 實驗室內部品質稽核課程",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "台中",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-08-10T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "4658d653-f579-4a69-befc-8d60da85c962",
+          "Title": "公差設計與量測應用工程師培訓班 - 全系列",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "台中",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-08-05T00:00:00",
+          "ErrorMessage": ""
+      }
+  ],
+  "SelfStudyList": [
+      {
+          "PosterGUID": "dfc1f58e-f78b-4e6c-9669-df0c943591f4",
+          "Title": "精準藥物生產開發及法規實務",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "雲端教室",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-12-30T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "ef2f8adb-9691-45f3-8d42-878d1fd473a9",
+          "Title": "醫學影像與判讀技術【數位全系列】",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "雲端教室",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-12-30T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "a82daf24-2b39-41ad-8220-6675a5a94905",
+          "Title": "AI醫學影像分析技術",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "雲端教室",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-09-22T00:00:00",
+          "ErrorMessage": ""
+      },
+      {
+          "PosterGUID": "db88011b-02d7-4fc0-9c59-905b4be3b7ec",
+          "Title": "智權實務案例與IP Bank 介紹",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "雲端教室",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ActBeginDate": "2023-12-31T00:00:00",
+          "ErrorMessage": ""
+      }
+  ],
+  "VideoList": [
+      {
+          "InfNo": "d8cff6b4-2418-4b75-8708-5ac145675d36",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=14524264-6663-4058-a2b3-3ab5eadcbd3f",
+          "GrfNo": "15031f82-cead-4ec2-bebe-f8822c671034",
+          "Title": "越薄越厲害　突破薄膜製程極限",
+          "VideoURL": "",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "e28da5d7-96eb-4819-ac7c-022e19192257",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=2fc125c7-54d1-4326-b1bc-faf5ea41f057",
+          "GrfNo": "15031f82-cead-4ec2-bebe-f8822c671034",
+          "Title": "有身分證的 泵浦智慧化節能技術",
+          "VideoURL": "",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "12797ae9-a19b-4fb7-8533-f7a6b00aa92b",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=d87845e8-4186-4df5-8c33-95926c1c8d94",
+          "GrfNo": "15031f82-cead-4ec2-bebe-f8822c671034",
+          "Title": "35噸自駕聯結車　澳洲高速公路奔馳",
+          "VideoURL": "",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "6118d6c6-4083-4ce8-a145-4ece5eee7e6a",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=0330a9c3-986e-4ea5-a50a-0202fc4d21d1",
+          "GrfNo": "15031f82-cead-4ec2-bebe-f8822c671034",
+          "Title": "工具機關鍵模組狀態自主診斷 省工、省時還省成本！",
+          "VideoURL": "",
+          "ErrorMessage": ""
+      },
+      {
+          "InfNo": "2f12461a-b4fe-4f8c-bcac-cd13d1628107",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=a98e198b-456b-43d9-8f61-86c51e126a69",
+          "GrfNo": "15031f82-cead-4ec2-bebe-f8822c671034",
+          "Title": "高深寬比玻璃成孔技術　助半導體產業封裝升級",
+          "VideoURL": "",
+          "ErrorMessage": ""
+      }
+  ],
+  "RecommendList": [
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "﻿電力是產業的基石，對於經濟發展至關重要。為協助推動我智慧電網人才培育，工研院與產學專家特成立電網學校，盼更多人才投入智慧電網領域，貢獻所長！",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=9e9fc2ca-4118-4d55-a9b9-3873e1eedbad",
+          "Name": "劉志文主任",
+          "Cop": "工研院綠能所副所長暨電網管理與現代化策略辦公室",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "﻿面對能源轉型推行智慧電網勢在必行，供電穩定及新能源等題需要更多人才投入，電網人才培訓刻不容緩。透過實務規劃內容及參訪,使學員具備進入電力與電網產業工作的實務能力。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=eaeedcc0-f6e6-46c3-8870-6f2d4489ff2c",
+          "Name": "盧展南 理事長",
+          "Cop": "台灣電力與能源工程協會 ",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "講師非常認真地提供講義和教授課程，課堂上的CTF競賽進一步加深了我對所學知識的理解與應用，對於那些希望轉換跑道的人來說，這個課程絕對是一個很好的選擇。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=f0c4e31b-2608-4f20-be54-2e13cb406cb0",
+          "Name": "震X股份有限公司 林工程師",
+          "Cop": "資訊安全專業技術養成班 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "透過充實的課程，現在瞭解更多相關知識及國際趨勢。除此之外，在生活方面也開始更加注重節能，也會多關注環保議題的時事。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=cdcfb70f-0e20-4079-a6f9-8721a6343392",
+          "Name": "許先生",
+          "Cop": "綠領減碳推動人才養成班 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "經驗豐富的業師講課，令我獲益匪淺，面臨轉職的當口，很幸運能遇到這門課程，讓學習的成本變小，效率極大化。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=ee9cae4d-c5c9-4365-a4d6-e0a47f34185c",
+          "Name": "廖 顧問",
+          "Cop": " 綠領減碳推動人才養成班 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "課程互動也十分活躍，老師不僅解答了我們的問題，也提供了許多有用的資訊和建議。每次上課都能獲得新知，學習氛圍充實且愉悅。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=dd72947d-a4b4-4eb5-abe2-af87b3ac4824",
+          "Name": "智璞產業趨勢研究所 綠能中心 余主任",
+          "Cop": "2023產業分析師資格認證班春季班學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "這堂課將其理論與實際連結在一起，都讓我對微電網有更一深的了解，也對將來專業發展提供一個方向。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=a847a115-868b-45db-9e5d-f68051ac3f74",
+          "Name": "利豐認證科技有限公司 薛先生",
+          "Cop": "綠領能源工程師 課程學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "學到如何使用產業分析的常用工具等，更重要是培養產業資訊的觀察力，提高辨識資料的敏銳程度，進而幫助我在業務拓展上更有說服力。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=426d34f1-037e-4ebe-9223-b7dc6c91f271",
+          "Name": "冠群國際專利事務所 龔專員",
+          "Cop": "2023產業分析師資格認證班春季班學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "七個週日的實體課程「台上十分鐘，台下十年功」，團隊在課程內容、師資、地點上的安排十分完善，如期精進相關工作所需技能。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=d38c4bf1-47a3-4f46-810f-df3a42e156a8",
+          "Name": "研究員 蔡先生",
+          "Cop": "SolidWorks進階零組件工程圖與CSWP實務培訓班 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "課程內容很精實，在課堂有任何問題老師都會協助。上完課除了學會畫圖，也改善畫圖的流程及工作習慣。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=2da97bb4-ddcc-4240-9ec2-be8513e4a88e",
+          "Name": "研發工程師 許先生",
+          "Cop": "SolidWorks進階零組件工程圖與CSWP實務培訓班 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "協助學員建構自己的觀點，探索新知，以實戰工作坊結合多元工具模組，體驗產業分析師的工作流程、專案管理及團隊協作，挖掘產業多元情境。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=56fbf7d5-8d11-4804-9c80-4a7a6ef8237c",
+          "Name": "銘島國際股份有限公司 專案經理 章經理",
+          "Cop": "2023產業分析師資格認證班春季班學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "講師的影片，很精彩並且實用易懂，實作課程規畫的也很好，分組帶開每個人都有實做的機會，助教也很有耐心的引導內容",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=7c65ebc4-a532-468b-a9e9-5322afc70714",
+          "Name": " 三福氣體股份有限公司專員 古小姐",
+          "Cop": "溫室氣體盤查實作研習班學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "工研院資源多，講師群也很耐心及用心解鎖上課學員提出的種種問題",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=01225683-9a62-4c25-b9d3-326518e983ba",
+          "Name": "劉 小姐",
+          "Cop": "正修科技大學 化妝品與時尚彩妝系講師",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "參加工研院的課程，能夠快速建立競爭力。來自業界和具備最新技術研究的業師和講者，無論培養個人技能，還是獲取專業知識，都能提供扎實而實用的教學內容。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=a1ef4e98-19a5-4894-816c-fd6329e83729",
+          "Name": "馮 先生",
+          "Cop": "美科實業股份有限公司 專案企劃開發經理",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "感謝辦課同仁課前的協助，讓學員非常清楚課程資訊；也在課堂中透過精準的時間掌控提升課程效率～希望工研院繼續有類似的實務課程",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=08fe285d-a97d-4375-a1b0-438ffa3bcb11",
+          "Name": "A學員",
+          "Cop": "企業碳足跡分析師認證班學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "工研院產業學院的課程走在最前端且涵蓋GMP、PIF 等完整主題，講師都是百中選一兼具理論與實務的專家。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=d89cc975-d68f-4f92-ab24-6355bf5f8c5b",
+          "Name": "廖 先生",
+          "Cop": "伯慶股份有限公司 總經理",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "﻿以宏觀視野了解工程概念，佐以台灣現況分析討論，培育符合產業關鍵技術及趨勢的專業人才",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=e04835e7-ab4d-4593-aac8-2e17d65650b4",
+          "Name": "美商MCT Engineering,Inc.高級首席工程師 張先生",
+          "Cop": "離岸風電工程師課程 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "老師深入淺出，讓我快速理解課程，即使我没有相關背景。課堂設有LINE群组分享有用信息。不僅學到知識，也與老師和同學持續互動交流。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=5c97b6a2-2b59-4756-964f-64c3fb69624b",
+          "Name": "蔡先生",
+          "Cop": "六軸機械手臂程式設計與操作模擬基礎實務班 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "課程真的很棒，學習到很多，交到很多朋友 ，各個講師、導師、助教、承辦人員都很用心。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=37e95b3b-e779-4cb7-a909-b5e6bc212f55",
+          "Name": "黃先生",
+          "Cop": "智慧製造-機構設計與結構分析技術師養成班 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "講師擁有學界與業界的豐富經驗，課堂中講解知識，也適時搭配實務案例，讓學員可以反思如何應用在自己的產品之中，是個很棒的課程",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=dfaea4c1-fc92-447c-9b6f-857ef2f0f0fa",
+          "Name": "工程師 吳先生",
+          "Cop": "智慧潤滑預知保養與機器損壞預測實務課程 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "老師上課很認真，最喜歡老師講解自行車拆裝以及整車設計的部分，另外對於自行車整體趨勢講解非常仔細。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=aff4abdb-ba1d-4b6c-b16d-cc41a47e6adb",
+          "Name": "陳先生",
+          "Cop": "自行車研發設計人才養成班 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "課程詳細解析如何將工廠導入智能生產步驟。學員可以深入理解工業物聯網、並掌握相關技術，以實現更高效、更智能的生產方式",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=793dbb78-f45d-4e0f-b4fd-b2c9db5cd78f",
+          "Name": "講師群",
+          "Cop": "機器聯網與應用工程師人才培訓班 講師群",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "通過這門課程，學員可以更好地理解工業物聯網的概念和應用，並掌握相關技術，以實現更高效、更智能的生產方式。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=8136dc0e-d6e5-47a3-8508-f0f1db345870",
+          "Name": "陳講師",
+          "Cop": "機器聯網與應用工程師人才培訓班 講師",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "上課的內容與評鑑主題的範圍幾乎均有涵蓋，從管理面技術面向及相關能力指標的說明均有詳細的編排，很適合具有一定時間的實務從業人員從實作面和管理面向進行銜接與貫通。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=a2c8748a-0b26-48ba-8a8c-9b3590e19919",
+          "Name": "程式設計開發人員 葉先生",
+          "Cop": "資訊安全工程師中級培訓班 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "老師講課條理清晰易於吸收，同學們亦團結合作，熟讀課程講義，隨時上網吸收最新資安知識，讓我順利在八月通過中級鑑定。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=2b36ac4e-49fa-4830-92cc-e7e1dd659754",
+          "Name": "資安駐點工程師 陳先生",
+          "Cop": "資訊安全工程師中級培訓班 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "課程規劃很用心也很充實，同學們都非常親切，在交流的過程中也得到未來持續精進方向的靈感，希望綠領的課程能繼續辦下去。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=adf30020-2afa-42ec-b690-6af0d5b40931",
+          "Name": "林小姐",
+          "Cop": "綠領減碳推動人才養成班 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "講師授課的內容讓我有不同的啟發(雙軸同動以往是鎖死，老師處理方式是相反)，本年度雖採數位教學，但老師教經驗豐富加上數位設備，還是有一定的效果",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=511e50cb-ea5c-4760-82ae-4ea5a51f7bf2",
+          "Name": "漢民科技 黃處長",
+          "Cop": "110年度荷蘭機電整合課程 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "課程內容偏應用面，有解答到工作上遇到的疑惑，建議國內想要做系統或是系統整合的廠商可派人來參加此課程",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=05ea7a0a-dba5-4ca8-95d1-9e6556a49448",
+          "Name": "台灣應用材料 劉工程師",
+          "Cop": "110年度荷蘭機電整合課程 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "老師授課的內容對於本身的工作上非常有幫助，在課堂上也能認識不同領域的人彼此激盪，增進彼此的相關知識。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=64e3d25d-fb81-44a4-b90e-ed478c01d5c7",
+          "Name": "帆宣系統 王工程師",
+          "Cop": "110年度荷蘭機電整合課程 學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "謝謝工研院的夥伴辦理這堂課程，課程本身與配套活動都令人滿意。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=f68c5ee7-081f-445f-9c6d-243d5251547e",
+          "Name": "程式開發人員 林先生",
+          "Cop": "國際資安網路雙證技能培訓班學員",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "HMI(現代人機介面)提供更簡單、便利與美觀的操作介面，已成為在工業自動化領域中扮演不可或缺的角色。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=b0295fbc-b6c0-4a0d-88c8-9c4c703427a1",
+          "Name": "奇翰電子研發部 林經理",
+          "Cop": "人機介面機電整合與軟體應用專家",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "2020年因為新冠肺炎影響我們機構做了很大的改變以嘗試數位課程，本次跨國連線上課的美好經驗是一個成功的範例\n",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=72665498-6c30-4f25-ad37-97ddf3e59867",
+          "Name": "Dr.ir. Adrian Rankers ",
+          "Cop": "荷蘭機電整合課程講師",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "753f304c-b211-4670-a14f-f072e5b417be",
+          "Desc": "物聯網有助於廠商發揮產品的商業潛力，提昇產品的附加價值與競爭力。要深入了解物聯網應用可透過了解物聯網產業趨勢，學習物聯網系統架構、核心技術及系統平台，並透過應用情境案例了解物聯網應用現況。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=d010a8b7-23c1-466d-adb2-5f92bd2b1b2c",
+          "Name": "宜蘭大學資訊工程系 陳特聘教授",
+          "Cop": "物聯網應用工程專家",
+          "ErrorMessage": ""
+      }
+  ],
+  "ArticleList": [
+      {
+          "GrfNo": "f6e19f2d-f81c-421c-bc36-ea6409ba0a5d",
+          "InfNo": "26abb11e-1f83-44d9-9651-4db54d576b4c",
+          "Title": "快速竄起！最新職業「AI 溝通師」？",
+          "Desc": "近期全球就業市場有個新興職業正快速竄起，那就是擅長對生成式 AI 模型下指令、引導它給出精準答案的「AI 溝通師」（prompt engineer）。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=2120c081-8dfd-484e-8a56-76f6249a9f4c",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "科技新知",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "f6e19f2d-f81c-421c-bc36-ea6409ba0a5d",
+          "InfNo": "9bd9043f-a3b3-4c50-ab59-f096a58fa581",
+          "Title": "AI 晶片與一般晶片有什麼差別？",
+          "Desc": "AI 人工智慧的概念最早自 1960 年代被提出，時至今日，隨著電腦運算與儲存能力的大幅進展，近期物聯網基礎建設的逐步成熟，諸多整合產品也默默的讓 AI 開始出現在一般人的生活中。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=08622d7c-1717-4237-97e3-583bb21fb843",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "科技新知",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "f6e19f2d-f81c-421c-bc36-ea6409ba0a5d",
+          "InfNo": "0eb0d19d-bb58-4fc0-944b-f464cf9970d7",
+          "Title": "如何拉開 AI 與惡的距離？",
+          "Desc": "從進入停車場的影像車牌辨識、網路上即時問答的聊天機器人、在 X 光片上指出病灶的智慧醫療、一直到可以自動跟車的自駕車，近年來 AI 人工智慧技術持續在各領域中茁壯發展。",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=94a10b82-8e40-459e-b344-5d6713f2b15f",
+          "KeywordList": [
+              {
+                  "BDate": "0001-01-01T00:00:00",
+                  "UDate": "0001-01-01T00:00:00",
+                  "UMemName": "",
+                  "BMemName": "",
+                  "Title": "科技新知",
+                  "SearchCount": 0,
+                  "AddCount": 0,
+                  "TotalCount": 0,
+                  "OffDate": "0001-01-01T00:00:00",
+                  "LangCode": "",
+                  "TopDate": "0001-01-01T00:00:00",
+                  "KesBDate": "0001-01-01T00:00:00",
+                  "KesBMemName": "",
+                  "KesMapDataCount": 0,
+                  "KeyNo": "00000000-0000-0000-0000-000000000000",
+                  "ErrorMessage": ""
+              }
+          ],
+          "ErrorMessage": ""
+      }
+  ],
+  "ResourceList": [
+      {
+          "GrfNo": "6705f4e4-26fc-41b9-961a-391f29286c93",
+          "InfNo": "a4249b0d-a3d0-4c2c-b9cc-c0fc1f896434",
+          "Title": "工研院",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=ce0a1477-3fc4-4e64-b0a6-2e5eb22c2dbe",
+          "LinkURL": "https://www.itri.org.tw/",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "6705f4e4-26fc-41b9-961a-391f29286c93",
+          "InfNo": "bf3db03a-8022-4234-ae38-099183c6cfcf",
+          "Title": "電網學校",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=00f63f66-f4d5-464b-927b-2b68670f93a3",
+          "LinkURL": "https://college.itri.org.tw/powerschool/",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "6705f4e4-26fc-41b9-961a-391f29286c93",
+          "InfNo": "e7b6c0b1-5fad-41fa-b3bf-5b5e634a0df1",
+          "Title": "iCAP職能發展應用平台",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=8de557ad-b71f-429c-9bf3-f64f989540a8",
+          "LinkURL": "https://icap.wda.gov.tw/#",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "6705f4e4-26fc-41b9-961a-391f29286c93",
+          "InfNo": "179fd175-1b30-4582-b7d2-62382e402f07",
+          "Title": "UCAN大專院校就業職能平台",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=ad4033a5-190e-4f9d-af96-8f0bb27c4c82",
+          "LinkURL": "https://ucan.moe.edu.tw/Account/Login.aspx",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "6705f4e4-26fc-41b9-961a-391f29286c93",
+          "InfNo": "f3855a6f-e2be-4aaf-b822-a615fad341cb",
+          "Title": "italent 產業人才發展資訊網",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=b90f9a47-eb60-4ac3-bb30-0c9c2c0cf4e2",
+          "LinkURL": "https://www.italent.org.tw/Home/Index",
+          "ErrorMessage": ""
+      },
+      {
+          "GrfNo": "6705f4e4-26fc-41b9-961a-391f29286c93",
+          "InfNo": "537e2e2a-3736-4170-92de-452180441998",
+          "Title": "iPAS經濟部產業人才能力鑑定",
+          "CoverURL": "https://college.itri.org.tw/api/TM_AttFile_Attachment_Download?attNo=69c1c715-3713-42f0-a1cf-49d00106e321",
+          "LinkURL": "https://www.ipas.org.tw/",
+          "ErrorMessage": ""
+      }
+  ],
+  "ErrorMessage": ""
+}

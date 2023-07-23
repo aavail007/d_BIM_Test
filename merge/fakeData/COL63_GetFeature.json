@@ -1,0 +1,85 @@
+{
+  "AttributeList": [
+      {
+          "ActAttribute": "total",
+          "Count": 0,
+          "SerialNo": 0,
+          "ErrorMessage": ""
+      },
+      {
+          "ActAttribute": "P",
+          "Count": 0,
+          "SerialNo": 0,
+          "ErrorMessage": ""
+      },
+      {
+          "ActAttribute": "D",
+          "Count": 0,
+          "SerialNo": 0,
+          "ErrorMessage": ""
+      },
+      {
+          "ActAttribute": "C",
+          "Count": 0,
+          "SerialNo": 0,
+          "ErrorMessage": ""
+      },
+      {
+          "ActAttribute": "L",
+          "Count": 0,
+          "SerialNo": 0,
+          "ErrorMessage": ""
+      }
+  ],
+  "ItemList": [
+      {
+          "IsReOpen": false,
+          "KeyDomains": "",
+          "ActFolderName": "",
+          "ActFolderGUID": "",
+          "MinActBeginDate": "2023-09-04T00:00:00",
+          "MaxActBeginDate": "2023-09-04T00:00:00",
+          "ProductGUID": "D56790F5-D18B-4E89-A707-1D17A65708F9",
+          "ProductName": "符合現代化PIC/S GMP廠房及支援系統規劃",
+          "ProdSyllabus": "1.現代化廠房及支援系統之規劃重點提要\r\n2.污染來源防治策略及驗證文件建構重點",
+          "PSId": "89E8416D-B920-4D2C-A7D9-493C1042FADD,0BBFEDA3-11BC-4AA7-B69B-7E6BCA1BF152",
+          "PosterUpdateDate": "2023-05-26T08:33:40",
+          "ForeStatus": "",
+          "RandomId": "baf67adc-3344-4fa9-8cb0-8d9fddb3978b",
+          "Address": "Webex直播教室",
+          "ActAttribute": "D",
+          "CoverURL": "",
+          "FN": "",
+          "DN": "",
+          "ActObjective": "學員能夠瞭解現代化規格廠房及支援系統規劃重點，進而完成相關驗證程序。",
+          "KeyWords": [],
+          "KeyWordsString": "",
+          "ActConfirm": 98,
+          "TopDate": "0001-01-01T00:00:00",
+          "PosterValid": true,
+          "PosterGUID": "69D6C778-7B46-4841-80EC-984F35F2EAE3",
+          "Subject": "符合現代化PIC/S GMP廠房及支援系統規劃 ",
+          "ActName": "符合現代化PIC/S GMP廠房及支援系統規劃",
+          "ActBeginDate": "2023-09-04T00:00:00",
+          "Location": "數位直播",
+          "Duration": 14.0,
+          "ActId": "2323050080",
+          "ActGUID": "1D5C2CC7-73FC-4233-B5BB-9CFEDF3F34A4",
+          "ContectCname": "黃文彥",
+          "ActEndDate": "2023-09-05T00:00:00",
+          "ForeSignUpBeginDate": "0001-01-01T00:00:00",
+          "ForeSignUpEndDate": "2023-09-01T00:00:00",
+          "SerialNo": 1,
+          "ErrorMessage": ""
+      }
+  ],
+  "MinActBeginDate": "2023-09-04T00:00:00",
+  "MaxActBeginDate": "2023-09-04T00:00:00",
+  "TotalItemCount": 1,
+  "TotalPageCount": 1,
+  "CurrentPage": 1,
+  "PageSize": 1,
+  "StartIndex": 1,
+  "EndIndex": 1,
+  "ErrorMessage": ""
+}

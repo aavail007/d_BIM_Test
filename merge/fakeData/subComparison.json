@@ -1,0 +1,40 @@
+{
+  "ItemList": [
+      {
+          "SubCompareName": "藥品",
+          "FolderGUID": "0BBFEDA3-11BC-4AA7-B69B-7E6BCA1BF152",
+          "ErrorMessage": ""
+      },
+      {
+          "SubCompareName": "化粧品",
+          "FolderGUID": "59774924-E67D-4AA1-AAC0-B497BE1D39AC",
+          "ErrorMessage": ""
+      },
+      {
+          "SubCompareName": "智慧醫電",
+          "FolderGUID": "910FA48B-BA4A-4129-9968-A333C68C361C",
+          "ErrorMessage": ""
+      },
+      {
+          "SubCompareName": "醫療器材",
+          "FolderGUID": "A9A558ED-3971-41DD-BB91-2CE4A595C4B5",
+          "ErrorMessage": ""
+      },
+      {
+          "SubCompareName": "健康食品",
+          "FolderGUID": "BECB5092-CDB7-4C89-A37D-43D981909920",
+          "ErrorMessage": ""
+      },
+      {
+          "SubCompareName": "再生醫療、細胞治療開發",
+          "FolderGUID": "DCC85150-F45D-4219-8A29-0DF695DDA5B9",
+          "ErrorMessage": ""
+      },
+      {
+          "SubCompareName": "生物技術",
+          "FolderGUID": "F14D15B5-D5AC-4BDD-AD3A-556B7621B4B1",
+          "ErrorMessage": ""
+      }
+  ],
+  "ErrorMessage": ""
+}
