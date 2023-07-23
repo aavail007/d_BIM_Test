@@ -295,11 +295,11 @@ var DefaultPage = {
                                 </div>\
                             </div>\
                             <div class="card">\
-                                <div class="card-body">\
+                                <div class="card-body recommend-card">\
                                     <div class="con mt-4 mb-3 text_ellipsis_4">'+ obj.Memo + '</div>\
-                                    <div class="d-flex flex-column text-right mt-3">\
-                                        <div class="name">'+ obj.Title + '</div>\
-                                        <div class="position">'+ obj.Keyword + '</div>\
+                                    <div class="d-flex flex-column text-right">\
+                                        <div class="name nz-overflow-ellipsis-2">'+ obj.Title + '</div>\
+                                        <div class="position nz-overflow-ellipsis-2">'+ obj.Keyword + '</div>\
                                     </div>\
                                 </div> <!-- end card-body-->\
                             </div> <!-- end card-->\
@@ -321,16 +321,16 @@ var DefaultPage = {
             centerPadding: '0px',
             responsive: [
                 {
-                    breakpoint: 768,
+                    breakpoint: 1199,
                     settings: {
-                        slidesToShow: 1,
+                        slidesToShow: 2,
                         arrows: false,
                         centerPadding: '0px',
 
                     }
                 },
                 {
-                    breakpoint: 450,
+                    breakpoint: 768,
                     settings: {
                         slidesToShow: 1,
                         arrows: false,
@@ -683,7 +683,7 @@ var DefaultPage = {
                     $('#catalog1').empty();
                     $('#catalog1').append(productContent);
                 } else {
-                    productContent += '<div class="text-center">尚未有產品資料</div>';
+                    productContent += '<div class="text-center my-5">尚未有產品資料</div>';
                     $('#catalog1').empty();
                     $('#catalog1').append(productContent);
                 }
