@@ -129,8 +129,10 @@ var DefaultPage = {
             ]
         };
         $.ajax({
-            type: "POST",
-            url: webURL + "/api/LSM01_ByGet",
+            // type: "POST", // TODO:開發註解
+            // url: webURL + "/api/LSM01_ByGet", // TODO:開發註解
+            type: "GET",
+            url: webURL2 + "fakeData/subComparison.json",
             contentType: "application/json",
             dataType: "json",
             data: JSON.stringify(inParam),
@@ -182,7 +184,8 @@ var DefaultPage = {
 
         $.ajax({
             type: "GET",
-            url: webURL + "/api/TM_CMS_Info_GetList?" + $.param(p),
+            // url: webURL + "/api/TM_CMS_Info_GetList?" + $.param(p), // TODO:開發註解
+            url: webURL2 + "fakeData/furtherReading.json",//本機開發用
             contentType: "application/json",
             dataType: "json",
             async: false,
@@ -273,7 +276,8 @@ var DefaultPage = {
 
         $.ajax({
             type: "GET",
-            url: webURL + "/api/TM_CMS_Info_GetList?" + $.param(p2),
+            // url: webURL + "/api/TM_CMS_Info_GetList?" + $.param(p2), // TODO:開發註解
+            url: webURL2 + "fakeData/TM_CMS_Info_GetList.json",//本機開發用
             contentType: "application/json",
             dataType: "json",
             async: false,
@@ -295,11 +299,11 @@ var DefaultPage = {
                                 </div>\
                             </div>\
                             <div class="card">\
-                                <div class="card-body">\
+                                <div class="card-body recommend-card">\
                                     <div class="con mt-4 mb-3 text_ellipsis_4">'+ obj.Memo + '</div>\
-                                    <div class="d-flex flex-column text-right mt-3">\
-                                        <div class="name">'+ obj.Title + '</div>\
-                                        <div class="position">'+ obj.Keyword + '</div>\
+                                    <div class="d-flex flex-column text-right">\
+                                        <div class="name nz-overflow-ellipsis-2">'+ obj.Title + '</div>\
+                                        <div class="position nz-overflow-ellipsis-2">'+ obj.Keyword + '</div>\
                                     </div>\
                                 </div> <!-- end card-body-->\
                             </div> <!-- end card-->\
@@ -321,16 +325,16 @@ var DefaultPage = {
             centerPadding: '0px',
             responsive: [
                 {
-                    breakpoint: 768,
+                    breakpoint: 1199,
                     settings: {
-                        slidesToShow: 1,
+                        slidesToShow: 2,
                         arrows: false,
                         centerPadding: '0px',
 
                     }
                 },
                 {
-                    breakpoint: 450,
+                    breakpoint: 768,
                     settings: {
                         slidesToShow: 1,
                         arrows: false,
@@ -381,8 +385,10 @@ var DefaultPage = {
             "GetAttributeList": "N"
         };
         $.ajax({
-            type: "POST",
-            url: webURL + "/api/COL06_GetWithHolidayA",
+            // type: "POST", // TODO:開發註解
+            // url: webURL + "/api/COL06_GetWithHolidayA", // TODO:開發註解
+            type: "GET",
+            url: webURL2 + "fakeData/COL06_GetWithHolidayA.json",//本機開發用
             contentType: "application/json",
             dataType: "json",
             data: JSON.stringify(inParam),
@@ -575,11 +581,11 @@ var DefaultPage = {
             "GetAttributeList": "N"
         };
         $.ajax({
-            type: "POST",
+            // type: "POST", // TODO:開發註解
             //url: webURL + "/api/COL63_GetFeature",
-			url: webURL + "/api/COL65_GetFeatureMenu?" + $.param(p),
-            //type: "GET",//本機開發用
-            //url: webURL + "product.json",//本機開發用
+			// url: webURL + "/api/COL65_GetFeatureMenu?" + $.param(p), // TODO:開發註解
+            type: "GET",//本機開發用
+            url: webURL2 + "fakeData/product.json",//本機開發用
             contentType: "application/json",
             dataType: "json",
             //data: JSON.stringify(inParam),
@@ -603,7 +609,8 @@ var DefaultPage = {
                         };
                         $.ajax({
                             type: "GET",
-                            url: webURL + "/api/TM_Course_Favority_GetOne?" + $.param(p),
+                            // url: webURL + "/api/TM_Course_Favority_GetOne?" + $.param(p), // TODO:開發註解
+                            url: webURL2 + "fakeData/favority.json",//本機開發用
                             contentType: "application/json",
                             dataType: "json",
                             async: false,
@@ -650,10 +657,10 @@ var DefaultPage = {
                             "GetAttributeList": "N"
                         };
                         $.ajax({
-                            type: "POST",
-                            url: webURL + "/api/COL63_GetFeature",
-                            //type: "GET",//本機開發用
-                            //url: webURL + "product.json",//本機開發用
+                            // type: "POST", // TODO:開發註解
+                            // url: webURL + "/api/COL63_GetFeature", // TODO:開發註解
+                            type: "GET",//本機開發用
+                            url: webURL2 + "fakeData/COL63_GetFeature.json",//本機開發用
                             contentType: "application/json",
                             dataType: "json",
                             data: JSON.stringify(inParam),
@@ -683,7 +690,7 @@ var DefaultPage = {
                     $('#catalog1').empty();
                     $('#catalog1').append(productContent);
                 } else {
-                    productContent += '<div class="text-center">尚未有產品資料</div>';
+                    productContent += '<div class="text-center my-5">尚未有產品資料</div>';
                     $('#catalog1').empty();
                     $('#catalog1').append(productContent);
                 }

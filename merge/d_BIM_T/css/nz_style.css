@@ -541,6 +541,10 @@ a .nz-black:hover {
   .searchBarBox {
       width: 95%
   }
+
+  .nz-footer-tour a.nz-a-white {
+    font-size: 15px !important;
+  }
 }
 
 @media (max-width: 767.98px) {
@@ -710,7 +714,7 @@ a .nz-black:hover {
   background-color: #fff;
   border-radius: 11px;
   overflow: hidden;
-  min-height: 390px;
+  min-height: 360px;
   margin: 15px 0;
   box-shadow: 0 6px 27px rgba(0, 0, 0, 0.08);
 }
@@ -1569,7 +1573,7 @@ td {
   font-weight: 800;
   color: #555555;
   min-height: 44px;
-  width: calc(100% - 35px);
+  width: 100%;
 }
 
 .new-notify {
@@ -1813,9 +1817,9 @@ a.pow-card-date:hover {
     height: 40px;
   }
 
-  .nz-title {
+  /* .nz-title {
     text-align: center;
-  }
+  } */
 
   .nz-carousel {
     margin: -15px;
@@ -1922,7 +1926,7 @@ a.pow-card-date:hover {
     height: 150px;
   }
 }
-@media (max-width: 410px) {
+@media (max-width: 414px) {
   .nz-footer-logo {
     height: 36px;
   }

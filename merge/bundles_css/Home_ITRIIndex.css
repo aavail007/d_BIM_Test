@@ -515,6 +515,53 @@ a:hover .arrow_animated {
     position: absolute;
     bottom: -50px;
 }
+
+#movie_carousel .video-container img{
+    height: 100%;
+    object-fit: cover;
+}
+
+#movie_carousel .video-container {
+    height: 155px;
+    padding-bottom: 0;
+}
+
+@media (max-width: 1499px) {
+    #movie_carousel .video-container {
+        height: 200px;
+    }
+}
+
+@media (max-width: 1366px) {
+    #movie_carousel .video-container {
+        height: 180px;
+    }
+}
+
+@media (max-width: 1080px) {
+    #movie_carousel .video-container {
+        height: 165px;
+    }
+}
+
+@media (max-width: 991px) {
+    #movie_carousel .video-container {
+        height: 200px;
+    }
+}
+
+@media (max-width: 767px) {
+    #movie_carousel .video-container {
+        height: 250px;
+    }
+}
+
+@media (max-width: 415px) {
+    #movie_carousel .video-container {
+        height: 165px;
+    }
+}
+
 /*#endregion 影音專區*/
 
 /*#region 推薦證言*/
@@ -624,9 +671,15 @@ a:hover .arrow_animated {
     overflow: hidden;
 }
 
-    #article_zone .lesson_img_mask img {
-        width: 100%;
-    }
+#article_zone .lesson_img_mask img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#divArticleList .card-body {
+    height: 105px;
+}
 
 
 /*#endregion 學習專欄*/
