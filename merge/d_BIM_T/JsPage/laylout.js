@@ -1,6 +1,5 @@
 ////002
 $(document).ready(function () {
-    sessionStorage.setItem("homemenulist2", fakeMenuList);// TODO:本機開發塞 menu 資料
     Home_Layout.BindUI();
     Home_Layout.BindEvent();
     Home_Layout.BindData();
@@ -71,10 +70,8 @@ var Home_Layout = {
             ]
         };
         $.ajax({
-            // type: "POST", // TODO:開發註解
-            // url: webURL + "/api/LSM01_ByGet", // TODO:開發註解
-            type: "GET",
-            url: webURL2 + "fakeData/comparisonList.json",
+            type: "POST",
+            url: webURL + "/api/LSM01_ByGet",
             contentType: "application/json",
             dataType: "json",
             data: JSON.stringify(inParam),
@@ -1087,10 +1084,8 @@ var Home_Layout = {
             ]
         };
         $.ajax({
-            // type: "POST", // TODO:開發註解
-            // url: webURL + "/api/LSM01_ByGet", // TODO:開發註解
-            type: "GET",
-            url: webURL2 + "fakeData/subComparison.json",
+            type: "POST",
+            url: webURL + "/api/LSM01_ByGet",
             contentType: "application/json",
             dataType: "json",
             data: JSON.stringify(inParam),
@@ -1117,10 +1112,8 @@ var Home_Layout = {
             "_": BaseFunction.NowDateTimeCache()//cache 10分鐘
         };
         $.ajax({
-            // type: "GET", // TODO:開發註解
-            // url: webURL + "/api/TM_CMS_Keyword_GetList?" + $.param(p2), // TODO:開發註解
             type: "GET",
-            url: webURL2 + "fakeData/TM_CMS_Keyword_GetList.json",
+            url: webURL + "/api/TM_CMS_Keyword_GetList?" + $.param(p2),
             contentType: "application/json",
             dataType: "json",
             async: true,//非同步

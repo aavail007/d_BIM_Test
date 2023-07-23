@@ -26,14 +26,13 @@
  */
 ////002
 $(document).ready(function () {
-    sessionStorage.setItem("homemenulist2", fakeMenuList);// TODO:本機開發塞 menu 資料
     Home_Layout.BindTrain();
     Home_Layout.BindUI();
     Home_Layout.BindEvent();
     Home_Layout.BindData();
     // Google 登入程序
     if (setGA == "True") {
-        // Home_Layout.GoGoogle(); // TODO:本機開發暫時註解 
+        Home_Layout.GoGoogle();
         Home_Layout.GoFaceBook();
         Home_Layout.GoLine();
     }
@@ -388,10 +387,8 @@ var Home_Layout = {
             ]
         };
         $.ajax({
-            // type: "POST", // TODO:開發註解
-            // url: webURL + "/api/LSM01_ByGet", // TODO:開發註解
-            type: "GET",
-            url: webURL2 + "fakeData/comparisonList.json",
+            type: "POST",
+            url: webURL + "/api/LSM01_ByGet",
             contentType: "application/json",
             dataType: "json",
             data: JSON.stringify(inParam),
@@ -571,10 +568,8 @@ var Home_Layout = {
                                                                 ]
                                                             };
                                                             $.ajax({
-                                                                // type: "POST", // TODO:開發註解
-                                                                // url: webURL + "/api/LSM01_ByGet", // TODO:開發註解
-                                                                type: "GET",
-                                                                url: webURL2 + "fakeData/comparisonList.json",
+                                                                type: "POST",
+                                                                url: webURL + "/api/LSM01_ByGet",
                                                                 contentType: "application/json",
                                                                 dataType: "json",
                                                                 data: JSON.stringify(inParam),
@@ -1358,8 +1353,7 @@ var Home_Layout = {
         }
         $.ajax({
             type: "GET",
-            // url: webURL + "/api/TM_CMS_Keyword_GetList?" + $.param(p), // TODO:開發註解
-            url: webURL2 + "fakeData/TM_CMS_Keyword_GetList.json",
+            url: webURL + "/api/TM_CMS_Keyword_GetList?" + $.param(p),
             contentType: "application/json",
             dataType: "json",
             async: true,//非同步
@@ -1808,10 +1802,8 @@ var Home_Layout = {
             ]
         };
         $.ajax({
-            // type: "POST", // TODO:開發註解
-            // url: webURL + "/api/LSM01_ByGet", // TODO:開發註解
-            type: "GET",
-            url: webURL2 + "fakeData/comparisonList.json",
+            type: "POST",
+            url: webURL + "/api/LSM01_ByGet",
             contentType: "application/json",
             dataType: "json",
             data: JSON.stringify(inParam),
@@ -1840,8 +1832,7 @@ var Home_Layout = {
         };
         $.ajax({
             type: "GET",
-            // url: webURL + "/api/TM_CMS_Keyword_GetList?" + $.param(p2), // TODO:開發註解
-            url: webURL2 + "fakeData/TM_CMS_Keyword_GetList.json",
+            url: webURL + "/api/TM_CMS_Keyword_GetList?" + $.param(p2),
             contentType: "application/json",
             dataType: "json",
             async: true,//非同步
@@ -1932,8 +1923,7 @@ var Home_Layout = {
         };
         $.ajax({
             type: "GET",
-            // url: webURL + "/api/TM_CMS_Keyword_GetList?" + $.param(p2), // TODO:開發註解
-            url: webURL2 + "fakeData/TM_CMS_Keyword_GetList.json",
+            url: webURL + "/api/TM_CMS_Keyword_GetList?" + $.param(p2),
             contentType: "application/json",
             dataType: "json",
             async: true,//非同步
@@ -1972,10 +1962,8 @@ var Home_Layout = {
             ]
         };
         $.ajax({
-            // type: "POST", // TODO:開發註解
-            // url: webURL + "/api/LSM01_ByGet", // TODO:開發註解
-            type: "GET",
-            url: webURL2 + "fakeData/comparisonList.json",
+            type: "POST",
+            url: webURL + "/api/LSM01_ByGet",
             contentType: "application/json",
             dataType: "json",
             data: JSON.stringify(inParam),
@@ -2003,8 +1991,7 @@ var Home_Layout = {
         };
         $.ajax({
             type: "GET",
-            url: webURL + "/api/TM_CMS_Keyword_GetList?" + $.param(p2), // TODO:開發註解
-            url: webURL2 + "fakeData/TM_CMS_Keyword_GetList.json",
+            url: webURL + "/api/TM_CMS_Keyword_GetList?" + $.param(p2),
             contentType: "application/json",
             dataType: "json",
             async: true,//非同步
