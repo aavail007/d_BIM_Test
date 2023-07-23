@@ -1,0 +1,438 @@
+/*修正錨點錯位style*/
+.target-fix {
+    position: relative;
+    top: -160px;
+    display: block;
+    height: 0;
+    overflow: hidden;
+}
+
+/*影片滿版style*/
+p.video-container {
+    margin-top: 10px !important;
+}
+
+
+.video-container {
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90% !important;
+  height: 90% !important;
+}
+
+
+/*åœ˜éšŠstyle*/
+.nz-team {
+  font-size: 1em;
+}
+
+.nz-team-title1 {
+  font-size: 24px;
+  font-weight: bolder;
+  text-indent: 10px;
+  padding-top: 25px;
+  padding-left: 200px;
+   margin-bottom: -23px;
+}
+
+.nz-team-title2 {
+  font-size: 20px;
+  font-weight: bolder;
+  color: #1a9d90;
+}
+
+.nz-team-title3 {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.nz-people-img {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.nz-director-img {
+  width: 350px;
+  height: 350px;
+  display: inline-block;
+  overflow: hidden;
+  border-radius: 25%;
+}
+
+.nz-teamb-img {
+  width: 280px;
+  height: 280px;
+  display: inline-block;
+  overflow: hidden;
+  border-radius: 25%;
+}
+
+.nz-teams-img {
+  width: 160px;
+  height: 160px;
+  display: inline-block;
+  overflow: hidden;
+  border-radius: 25%;
+}
+
+
+.nz-team-word {
+  position: relative;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  padding: 15px 15px 15px 20px;
+  text-align: left;
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+  border-bottom-color: #abceae;
+}
+.nz-team-list{
+  padding-top: 15px;
+  white-space: nowrap;
+}
+
+.nz-team-list h4{
+  white-space: nowrap;
+}
+
+@media(max-width: 767.98px) {
+  .nz-team-title1 {        
+      padding-top: 20px;
+      padding-left: 50px;
+      margin-bottom: 0px;
+  }
+
+  .nz-team-word {
+      text-align: center;
+  }
+  .nz-team-title3 {
+      font-weight: normal;
+  }
+
+  .nz-team-list h4{
+      padding-top: 10px;
+      text-align: center;
+  }
+}
+
+/*header css*/
+#ITRI_topbar .order-1 {
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 1;
+    order: 1;
+}
+
+#ITRI_topbar .col-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-right:0;
+    padding-left:0;
+}
+#ITRI_topbar .topnav .topnav-menu {
+    height: 80px;
+    padding-top:0;
+    padding-bottom:0;
+}
+#ITRI_topbar .top_menu_hei {
+    height: 80px;
+}
+
+@media (min-width: 768px) {
+    #ITRI_topbar .col-md-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+#ITRI_topbar.topnav-navbar .topnav-logo {
+    line-height: 70px;
+    float: left;
+    min-width: 160px;
+}
+
+#ITRI_topbar .topnav .navbar-nav  .nav-item .nav-link.arrow-none {
+    font-size: 1rem;
+    position: relative;
+    padding: 0px 1.4rem !important;
+}
+
+#ITRI_topbar .topnav .navbar-nav .nav-item .nav-link {
+    font-size: 1rem;
+    position: relative;
+    padding: 1rem 1.3rem !important;
+}
+@media (min-width: 1200px) {
+    #ITRI_topbar .navbar-expand-xl .navbar-nav {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+    }
+}
+/*
+#ITRI_topbar .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 10rem;
+    padding: 0.25rem 0;
+    margin: 0.125rem 0 0;
+    font-size: 0.9rem;
+    color: #838f9c;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #e4eaf2;
+    border-radius: 0.25rem;
+}*/
+#ITRI_topbar .dropdown-menu.show {
+    display: block;
+}
+#ITRI_topbar .dropdown-menu-animated.show {
+    top: 100% !important;
+    /*width: max-content;*/
+}
+.bid_menu {
+    padding: 10px 80px 30px 80px;
+   /* width: max-content;*/
+}
+#ITRI_topbar navbar-nav .dropdown-menu {
+    position: static; 
+    float: none;
+}
+
+@media (min-width: 992px) {
+    #ITRI_topbar .topnav .dropdown .dropdown-menu {
+        margin-top: 0;
+        border-radius: 0 0 0.25rem 0.25rem;
+        min-width: calc(10rem + 1.5rem);
+        font-size: calc(0.9rem - 0.01rem);
+        /*width:max-content;*/
+    }
+
+    #ITRI_topbar .dropdown-menu.show {
+        width: 100%;
+        margin-top: 5px;
+        display: block !important;
+    }
+}
+/*#ITRI_topbar .navbar .dropdown-menu {
+    border: none;
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    background-color: rgba(255,255,255,0.9) !important;
+}
+
+*/
+
+#ITRI_topbar .arrow-down:after {
+    border-color: initial;
+    border-style: solid;
+    border-width: 0 0 1px 1px;
+    content: "";
+    height: .4em;
+    display: inline-block;
+    right: 5px;
+    top: 50%;
+    margin-left: 10px;
+    -webkit-transform: rotate(-45deg) translateY(-50%);
+    transform: rotate(-45deg) translateY(-50%);
+    -webkit-transform-origin: top;
+    transform-origin: top;
+    -webkit-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+    width: .4em;
+}
+#ITRI_topbar .arrow-down {
+    position: absolute;
+    right: 5px;
+    display: inline-block;
+}
+#ITRI_topbar .arrow-down:after {
+    right: 0 !important;
+    margin-left: 0 !important;
+}
+#ITRI_topbar .dropdown-toggle::after {
+    display: none;
+}
+
+#ITRI_topbar .mr-1, .mx-1 {
+    margin-right: 0.375rem;
+}
+@media (min-width: 1367px) {
+    #ITRI_topbar .mr-xl-5, .mx-xl-5 {
+        margin-right: 4.5rem !important;
+    }
+}
+.navbar-custom .topbar-right-menu .nav-link {
+    padding: 0;
+    color: #98a6ad;
+    min-width: 32px;
+    display: block;
+    text-align: center;
+    margin: 0 10px;
+    position: relative;
+}
+@media (max-width: 991.98px) {
+    #ITRI_topbar .topnav .arrow-down.user-arrow::after {
+        right: -5px;
+        position: absolute;
+    }
+        #ITRI_topbar .topnav .arrow-down.user-arrow::after {
+            right: -5px;
+            position: absolute;
+        }
+        #ITRI_topbar .topnav .arrow-down.user-arrow::after {
+            right: -5px;
+            position: absolute;
+        }
+        #ITRI_topbar .topnav .arrow-down::after {
+            right: -13px !important;
+            position: absolute;
+        }
+        #ITRI_topbar .topnav .arrow-down::after {
+            right: -13px !important;
+            position: absolute;
+        }
+       #ITRI_topbar .topnav .arrow-down::after {
+            right: 15px;
+            position: absolute;
+        }
+        #ITRI_topbar .col-12 {
+            -webkit-box-flex: 0;
+            -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+            max-width: 100%;
+        }
+    }
+
+    @media (min-width: 992px) {
+        .topnav .dropdown .dropdown-menu #divLessionBar .arrow-down::after {
+            right: 15px;
+            -webkit-transform: rotate(-135deg) translateY(-50%);
+            transform: rotate(-135deg) translateY(-50%);
+            position: absolute;
+        }
+    }
+
+    .topnav-navbar .navbar-toggle {
+        position: relative;
+        cursor: pointer;
+        float: left;
+        margin: 27px 20px;
+        padding: 0;
+        background-color: transparent;
+        border: none;
+    }
+
+    @media (max-width: 1199px) {
+        .navbar-custom.topnav-navbar .navbar-toggle {
+            margin: 15px 3px;
+        }
+
+        .bid_menu {
+            background: transparent;
+            height: auto;
+            overflow: scroll;
+            padding: 0 15px !important;
+        }
+    }
+
+    .topnav-navbar .navbar-toggle span {
+        height: 2px;
+        width: 100%;
+        background-color: rgba(71, 77, 86, 0.8);
+        display: block;
+        margin-bottom: 5px;
+        -webkit-transition: -webkit-transform .5s ease;
+        transition: -webkit-transform .5s ease;
+        transition: transform .5s ease;
+        transition: transform .5s ease, -webkit-transform .5s ease;
+    }
+
+    /*登入破版*/
+.pl-2, .px-2 {
+    padding-left: 0.75rem !important;
+}
+
+.pr-2, .px-2 {
+    padding-right: 0.75rem !important;
+}
+
+.mt-2, .my-2 {
+    margin-top: 0.75rem !important;
+}
+
+.align-items-start {
+    -webkit-box-align: start !important;
+    -ms-flex-align: start !important;
+    align-items: flex-start !important;
+}
+.modally-wrap .align-items-start {
+    margin: -12px;
+}
+/*輪播箭頭*/
+.slick-arrow {
+    z-index: 1 !important;
+}
+/*課程card文字*/
+.nz-know-card-info p,
+.nz-course-bg-card-info p {
+    font-size: 14px !important;
+    color: #898989;
+    min-height: 15px;
+}
+
+.pow-card-p p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.pow-card-p p,
+.pow-card-p a {
+    font-size: 14px !important;
+}
+
+.pow-card-p a.pow-card-btn {
+    font-size: 16px !important;
+}
+.pow-card-p .card-title-h {
+    font-size: 18px !important;
+    font-weight: 800;
+    color: #555555;
+    min-height: 44px;
+    width: calc(100% - 35px);
+}
+.pow-card-p a.divFavbox {
+    position: relative;
+    width: 35px;
+    display: inline-block;
+    font-size: 22px !important;
+    text-align: right;
+    line-height: 0px;
+    color: #02afbb;
+}
